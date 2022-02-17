@@ -4,6 +4,7 @@
 [![Latest Release](https://img.shields.io/github/release/vmware/govmomi.svg?logo=github&style=flat-square)](https://github.com/vmware/govmomi/releases/latest)
 [![Go Reference](https://pkg.go.dev/badge/github.com/vmware/govmomi.svg)](https://pkg.go.dev/github.com/vmware/govmomi)
 [![go.mod Go version](https://img.shields.io/github/go-mod/go-version/vmware/govmomi)](https://github.com/vmware/govmomi)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksatchit%2Fgovmomi.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksatchit%2Fgovmomi?ref=badge_shield)
 
 # govmomi
 
@@ -113,6 +114,9 @@ Refer to the [CHANGELOG](CHANGELOG.md) for version to version changes.
 ## License
 
 govmomi is available under the [Apache 2 license](LICENSE.txt).
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fksatchit%2Fgovmomi.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fksatchit%2Fgovmomi?ref=badge_large)
 
 ## Name
 
